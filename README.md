@@ -3,7 +3,7 @@
    <a href="" target="_blank"><img src="https://img.shields.io/badge/license-MIT-green" alt=""></a>
 </p>
 
-<h3 align="center">🚧 goteams - Concluído 🚀 🚧</h3>
+<h3 align="center">🚧 goteams - concluído 🚀 🚧</h3>
 <hr />
 
 <h2>💻 Sobre o projeto</h2>
