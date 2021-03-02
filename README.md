@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/68665746/109526342-33a17d00-7a91-11eb-
 <p>O Frontend precisa que o Backend esteja sendo executado para funcionar.</p>
 
 <h2>Pré-requisitos</h2>
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode.</p>
+<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js e Yarn. Além disto é bom ter um editor para trabalhar com o código como VSCode.</p>
 
 <h3>🎲 Rodando o Backend (servidor):</h3>
 <div>
