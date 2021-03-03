@@ -85,6 +85,7 @@ $ cd frontend<br><br>
 <ul>
    <li><a href="https://nodejs.org/en/" target="_blank">NodeJS</a></li>
    <li><a href="https://adonisjs.com/" target="_blank">AdonisJS</a></li>
+   <li><a href="https://www.postgresql.org/" target="_blank">Postgres</a><li>
 </ul>
 <hr />
 
