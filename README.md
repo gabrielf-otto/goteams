@@ -66,7 +66,7 @@ $ git clone https://github.com/gabrielf-otto/go-teams.git<br>
 <h3>🧭 Rodando a aplicação web (Frontend):</h3>
 <div>
    <pre>     
-<span>#</span> Vá para a pasta frontend
+<span>#</span> Em outro terminal, vá para a pasta frontend
 $ cd frontend<br><br>
       
    <span>#</span> Instale as dependências
@@ -85,7 +85,7 @@ $ cd frontend<br><br>
 <ul>
    <li><a href="https://nodejs.org/en/" target="_blank">NodeJS</a></li>
    <li><a href="https://adonisjs.com/" target="_blank">AdonisJS</a></li>
-   <li><a href="https://www.postgresql.org/" target="_blank">Postgres</a><li>
+   <li><a href="https://www.postgresql.org/" target="_blank">Postgres</a></li>
 </ul>
 <hr />
 
