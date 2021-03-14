@@ -3,11 +3,11 @@
    <a href="" target="_blank"><img src="https://img.shields.io/badge/license-MIT-green" alt=""></a>
 </p>
 
-<h3 align="center">🚧 goteams - Concluído 🚀 🚧</h3>
+<h3 align="center">🚧 teamspy - concluído 🚀 🚧</h3>
 <hr />
 
 <h2>💻 Sobre o projeto</h2>
-<p>goteams - é uma aplicação que demonstra as permissões do usuário baseado no time que ele está no momento. Por exemplo, o usuário 1, no time 1, é um administrador, mas esse mesmo usuário no time 2, é um moderador.</p>
+<p>teamspy - é uma aplicação que demonstra as permissões do usuário baseado no time que ele está no momento. Por exemplo, o usuário 1, no time 1, é um administrador, mas esse mesmo usuário no time 2, é um moderador.</p>
 <p>As permissões são baseadas no time, não no usuário.</p>
 <hr />
 
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/68665746/109526342-33a17d00-7a91-11eb-
 <p>O Frontend precisa que o Backend esteja sendo executado para funcionar.</p>
 
 <h2>Pré-requisitos</h2>
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode.</p>
+<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com/downloads">Git</a>, <a href="https://nodejs.org/pt-br/download/">Node.js</a> e <a href="https://classic.yarnpkg.com/en/docs/install#windows-stable">Yarn</a>. Além disso, é bom ter um editor para trabalhar com o código como o <a href="https://code.visualstudio.com/download">VSCode</a>.</p>
 
 <h3>🎲 Rodando o Backend (servidor):</h3>
 <div>
@@ -66,7 +66,7 @@ $ git clone https://github.com/gabrielf-otto/go-teams.git<br>
 <h3>🧭 Rodando a aplicação web (Frontend):</h3>
 <div>
    <pre>     
-<span>#</span> Vá para a pasta frontend
+<span>#</span> Em outro terminal, vá para a pasta frontend
 $ cd frontend<br><br>
       
    <span>#</span> Instale as dependências
@@ -85,6 +85,7 @@ $ cd frontend<br><br>
 <ul>
    <li><a href="https://nodejs.org/en/" target="_blank">NodeJS</a></li>
    <li><a href="https://adonisjs.com/" target="_blank">AdonisJS</a></li>
+   <li><a href="https://www.postgresql.org/" target="_blank">Postgres</a></li>
 </ul>
 <hr />
 
