@@ -3,11 +3,11 @@
    <a href="" target="_blank"><img src="https://img.shields.io/badge/license-MIT-green" alt=""></a>
 </p>
 
-<h3 align="center">🚧 goteams - concluído 🚀 🚧</h3>
+<h3 align="center">🚧 teamspy - concluído 🚀 🚧</h3>
 <hr />
 
 <h2>💻 Sobre o projeto</h2>
-<p>goteams - é uma aplicação que demonstra as permissões do usuário baseado no time que ele está no momento. Por exemplo, o usuário 1, no time 1, é um administrador, mas esse mesmo usuário no time 2, é um moderador.</p>
+<p>teamspy - é uma aplicação que demonstra as permissões do usuário baseado no time que ele está no momento. Por exemplo, o usuário 1, no time 1, é um administrador, mas esse mesmo usuário no time 2, é um moderador.</p>
 <p>As permissões são baseadas no time, não no usuário.</p>
 <hr />
 
