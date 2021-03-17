@@ -1,4 +1,8 @@
 <p align="center">
+   <img src="https://user-images.githubusercontent.com/68665746/111533157-3ebd0400-8745-11eb-8cba-ef8446866d95.jpg" alt="teamspy"/>
+</p>
+
+<p align="center">
    <a href="" target="_blank"><img src="https://img.shields.io/badge/made%20by-gabrielf.otto-red" alt=""></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/license-MIT-green" alt=""></a>
 </p>
