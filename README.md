@@ -54,7 +54,7 @@ $ git clone https://github.com/gabrielf-otto/go-teams.git<br>
    $ cd backend<br>
       
    <span>#</span> Instale as dependências
-   $ yarn install<br>
+   $ yarn<br>
       
    <span>#</span> Execute a aplicação em modo de desenvolvimento
    $ npx adonis serve --dev<br>
@@ -70,7 +70,7 @@ $ git clone https://github.com/gabrielf-otto/go-teams.git<br>
 $ cd frontend<br><br>
       
    <span>#</span> Instale as dependências
-   $ yarn install<br>
+   $ yarn<br>
       
    <span>#</span> Execute a aplicação em modo de desenvolvimento
    $ yarn start<br>
