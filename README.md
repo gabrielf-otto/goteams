@@ -52,7 +52,7 @@ $ npm install -g @adonisjs/cli<br><br>
 $ git clone https://github.com/gabrielf-otto/go-teams.git<br>
       
    <span>#</span> Acesse a pasta do projeto no terminal/cmd
-   $ cd go-teams<br>
+   $ cd teamspy<br>
       
    <span>#</span> Vá para a pasta server
    $ cd backend<br>
