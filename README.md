@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/68665746/109526342-33a17d00-7a91-11eb-
 $ npm install -g @adonisjs/cli<br><br>
    
 <span>#</span> Clone este repositório
-$ git clone https://github.com/gabrielf-otto/go-teams.git<br>
+$ git clone https://github.com/gabrielf-otto/teamspy.git<br>
       
    <span>#</span> Acesse a pasta do projeto no terminal/cmd
    $ cd teamspy<br>
